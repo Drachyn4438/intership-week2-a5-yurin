@@ -1,0 +1,14 @@
+# системные файлы ОС Window
+Thumbd.db
+dekstop.ini
+$RECYCLE.BIN/
+
+# файлы среди разработки PyCharm (Jetbrains)
+.idea/
+*.iml
+
+# временный файл и логи
+*.log
+*.tmp
+temp/
+tmp/
